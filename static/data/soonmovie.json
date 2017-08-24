@@ -1,0 +1,69 @@
+﻿[{
+
+	"img":"../static/images/movie_03.png",
+	"name":"神奇女侠",
+	"pic1":"../static/images/rating_star_small_on.png",
+	"pic2":"../static/images/rating_star_small_on.png",
+	"pic3":"../static/images/rating_star_small_on.png",
+	"pic4":"../static/images/rating_star_small_on.png",
+	"pic5":"../static/images/rating_star_small_on.png",
+	"num":"7.3"
+},
+{
+
+	"img":"../static/images/movie_05.png",
+	"name":"美好的意外",
+	"pic1":"../static/images/rating_star_small_on.png",
+	"pic2":"../static/images/rating_star_small_on.png",
+	"pic3":"../static/images/rating_star_small_on.png",
+	"pic4":"../static/images/rating_star_small_on.png",
+	"pic5":"../static/images/rating_star_small_on.png",
+	"num":"8.0"
+},
+{
+
+	"img":"../static/images/movie_07.png",
+	"name":"迷失Z城",
+	"pic1":"../static/images/rating_star_small_on.png",
+	"pic2":"../static/images/rating_star_small_on.png",
+	"pic3":"../static/images/rating_star_small_on.png",
+	"pic4":"../static/images/rating_star_small_on.png",
+	"pic5":"../static/images/rating_star_small_on.png",
+	"num":"7.8"
+},
+{
+
+	"img":"../static/images/film_03.png",
+	"name":"迷失Z城",
+	"pic1":"../static/images/rating_star_small_on.png",
+	"pic2":"../static/images/rating_star_small_on.png",
+	"pic3":"../static/images/rating_star_small_on.png",
+	"pic4":"../static/images/rating_star_small_on.png",
+	"pic5":"../static/images/rating_star_small_on.png",
+	"num":"7.8"
+},
+{
+
+	"img":"../static/images/film_05.png",
+	"name":"迷失Z城",
+	"pic1":"../static/images/rating_star_small_on.png",
+	"pic2":"../static/images/rating_star_small_on.png",
+	"pic3":"../static/images/rating_star_small_on.png",
+	"pic4":"../static/images/rating_star_small_on.png",
+	"pic5":"../static/images/rating_star_small_on.png",
+	"num":"7.8"
+},
+{
+
+	"img":"../static/images/film_07.png",
+	"name":"迷失Z城",
+	"pic1":"../static/images/rating_star_small_on.png",
+	"pic2":"../static/images/rating_star_small_on.png",
+	"pic3":"../static/images/rating_star_small_on.png",
+	"pic4":"../static/images/rating_star_small_on.png",
+	"pic5":"../static/images/rating_star_small_on.png",
+	"num":"7.8"
+}
+
+
+]
